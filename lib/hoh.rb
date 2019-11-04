@@ -45,6 +45,7 @@ def naming_system
               label: "Family",
               sub_category: {
                 label: "Genus",
+              label: "Species"
               }
             }
         }
